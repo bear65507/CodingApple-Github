@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Github, Have a Nice Day!
+=======
+Goodbye Github
+>>>>>>> fda44b8c8313d95b74008282f40c88c280fde081
 Aikiyo Fuuka -> My Wife
